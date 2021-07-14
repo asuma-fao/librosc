@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "qntM2aTfo5U0s1+K6WY/NdeS947koJ6C41rO/noaslEb7d07cPZHR4XCd23g2JNNxqLgiHHQ451vU58rw014Yw==",
+  "success": true,
+  "projectFilePath": "/Users/asmaafaouzi/Downloads/project/librosc/librosc.csproj",
+  "expectedPackageFiles": [
+    "/Users/asmaafaouzi/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/asmaafaouzi/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/asmaafaouzi/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/asmaafaouzi/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/asmaafaouzi/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/asmaafaouzi/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
